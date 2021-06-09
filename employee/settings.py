@@ -82,10 +82,10 @@ DATABASES = {
     'default': {
     'ENGINE': 'django.db.backends.mysql',
     'NAME': 'employee_db',  
-    'HOST': 'localhost',
-    'PORT': '3306',
-    'USER': 'admin',
-    'PASSWORD': '1Generaladdy#',
+    'HOST': 'db',
+    'PORT': 3306,
+    'USER': 'root',
+    'PASSWORD': 'password',
 }
 }
 
